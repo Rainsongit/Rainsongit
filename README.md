@@ -3,7 +3,7 @@
 **AI Research Engineer** | **MS Applied AI @ Stevens Institute**
 Building production-ready M
 L systems and contributing to open-source AI tools
-📍 Jersey City, NJ | 📧 pbairedd@stevens.edu | 💼 [LinkedIn]((https://www.linkedin.com/in/pranay-reddy-baireddy/))
+📍 Jersey City, NJ | 📧 pbairedd@stevens.edu | 💼 [LinkedIn](https://www.linkedin.com/in/pranay-reddy-baireddy/)
 ## 🔬 Current Focus
 - 🧠 **Research:** Efficient attention mechanisms for long sequences
 - 🛠️ **Building:** Production M
