@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="ui-sans-serif,system-ui,Segoe UI,Roboto,Arial,sans-serif">
+  <rect x="0" y="0" width="760" height="320" rx="16" fill="#ffffff"/>
+  <text x="32" y="42" font-size="19" font-weight="800" fill="#0f1222">lattice-gateway — measured under closed-loop load</text>
+  <text x="32" y="64" font-size="13" fill="#5b6478">overlapped batch dispatch · 64 workers · 3 mock backends</text>
+
+  <!-- Panel A: Throughput -->
+  <text x="150" y="94" font-size="13" font-weight="700" fill="#0f1222" text-anchor="middle">Throughput (req/s)</text>
+  <rect x="70" y="213" width="64" height="55" rx="5" fill="#c7ccd8"/>
+  <text x="102" y="205" font-size="14" font-weight="700" fill="#5b6478" text-anchor="middle">271</text>
+  <text x="102" y="286" font-size="12" fill="#5b6478" text-anchor="middle">before</text>
+  <rect x="166" y="128" width="64" height="140" rx="5" fill="#4f6bff"/>
+  <text x="198" y="120" font-size="16" font-weight="800" fill="#2438b8" text-anchor="middle">687</text>
+  <text x="198" y="286" font-size="12" fill="#5b6478" text-anchor="middle">after</text>
+  <text x="305" y="155" font-size="20" font-weight="800" fill="#2438b8" text-anchor="middle">2.5×</text>
+
+  <line x1="392" y1="88" x2="392" y2="278" stroke="#e6e8ef" stroke-width="1"/>
+
+  <!-- Panel B: p50 latency -->
+  <text x="560" y="94" font-size="13" font-weight="700" fill="#0f1222" text-anchor="middle">p50 latency (ms)</text>
+  <rect x="500" y="128" width="64" height="140" rx="5" fill="#c7ccd8"/>
+  <text x="532" y="120" font-size="14" font-weight="700" fill="#5b6478" text-anchor="middle">223</text>
+  <text x="532" y="286" font-size="12" fill="#5b6478" text-anchor="middle">before</text>
+  <rect x="596" y="216" width="64" height="52" rx="5" fill="#1aa36a"/>
+  <text x="628" y="208" font-size="16" font-weight="800" fill="#0f7d4f" text-anchor="middle">83</text>
+  <text x="628" y="286" font-size="12" fill="#5b6478" text-anchor="middle">after</text>
+  <text x="705" y="155" font-size="20" font-weight="800" fill="#0f7d4f" text-anchor="middle">−63%</text>
+</svg>
